@@ -6,7 +6,7 @@
 name: metatheorist
 
 # Short bio or description (displayed in the header)
-description: Thinking about theories about thinking 
+description: Reflections on theory by a computational cognitive scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://irisvanrooij.github.io/images/profile_pic.jpg
@@ -21,7 +21,7 @@ footer-links:
   email: i.vanrooij@me.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: irisvanrooij
   instagram:
   linkedin: irisvanrooij
   pinterest:
@@ -42,6 +42,7 @@ google_analytics:
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: irisvanrooijcogsci.com
+url: cognitionand intractability.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
