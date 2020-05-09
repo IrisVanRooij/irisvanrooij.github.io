@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a psychologist and computational cognitive scientist at Donders Institute for Brain, Cognition, and Behaviour 
+at Radboud University. My research focuses on the scope and limits of theories of cognition.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[i.vanrooij@me.com](mailto:i.vanrooij@me.com)
