@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="right" width="25%" src="/images/photo_border.png"> I'm Iris van Rooij, a psychologist and cognitive scientist.
+I'm Iris van Rooij, a psychologist and cognitive scientist.
 
 This "metatheorist" blog is to share ideas and news related, but not limited, to my [NIAS](https://nias.knaw.nl) project _Tools for theory: Improving the theoretical foundations of psychological science_.
 
