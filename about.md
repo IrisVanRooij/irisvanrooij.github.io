@@ -17,7 +17,7 @@ This "metatheorist" blog is to share ideas and news related, but not limited, to
 While I have [blogposts](https://irisvanrooijcogsci.com/posts/) on my personal website, I created this stand alone [GitHub](https://github.com) hosted blog to train some skills. I purposely chose simplicity of layout to focus on content over form.  
 
 
-### License
+### License <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
 Unless otherwise specified, the contents of this blog are released under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Feel free to cite this blog. Here are some [guidelines](https://www.wikihow.com/Cite-Blogs) on how to cite blogs.  
 
