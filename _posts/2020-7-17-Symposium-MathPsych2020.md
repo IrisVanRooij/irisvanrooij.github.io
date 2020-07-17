@@ -16,7 +16,7 @@ The symposium brings together a diverse group of mathematical psychologists and 
 
 Below you can find links to the talks (as they become available):
 
-1. **Olivia Guest & Andrea Martin**: [How computational modeling can force theory building in psychological science](https://www.youtube.com/watch?v=8Aa9_6ahO48&feature=emb_logo)
+1. **Olivia Guest & Andrea E. Martin**: [How computational modeling can force theory building in psychological science](https://www.youtube.com/watch?v=8Aa9_6ahO48&feature=emb_logo)
 
 2. **Chris Donkin et al.** Clarifying the role of mathematics in theory development
 
@@ -28,4 +28,4 @@ Below you can find links to the talks (as they become available):
 
 6. **David Kellen**: Theories as modelling ecologies
 
-The talks will be featured on July 22-23, and panel discussion will be on July 29. See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) for more information. 
+The talks will be featured on July 22-23, and panel discussion will be on July 29. See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) for more information.
