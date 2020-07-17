@@ -12,7 +12,7 @@ Psychological science has been going through some turbulent times due to the 're
 
 The symposium brings together a diverse group of mathematical psychologists and computational cognitive scientists and invites them to give their perspective on the question 'what makes a good theory?'. Each speaker is asked to reflect not only on the characteristics of 'good theories' but also on how on their view such theories may be identified and/or generated. The symposium's explicit aim is to foster dialogue on the complexities and nuances of the question posed and to create a platform for a pluralism of epistemological perspectives.
 
-**Symposium description**
+**Talks**
 
 Below you can find links to the talks (as they become available):
 
@@ -27,3 +27,5 @@ Below you can find links to the talks (as they become available):
 5. **Sashank Varma**; Theories that explain versus theories that describe: the case of constraint satisfaction
 
 6. **David Kellen**: Theories as modelling ecologies
+
+The talks will be featured on July 22-23, and panel discussion will be on July 29. See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) for more information. 
