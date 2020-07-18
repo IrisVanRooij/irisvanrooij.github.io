@@ -20,7 +20,7 @@ Below you can find links to the talks (as they become available):
 
 2. **Chris Donkin et al.** Clarifying the role of mathematics in theory development
 
-3. **Amy Perfors**: [Generating theories is hard, and none of our theories are good enough](https://www.youtube.com/watch?v=NFIQp_gMumM&feature=youtu.be)
+3. **Amy Perfors**: [Generating theories is hard, and none of our theories are good enough](https://www.youtube.com/watch?v=NFIQp_gMumM)
 
 4. **Iris van Rooij**: [Good theories are possible](https://www.youtube.com/watch?v=XXhRyRW630Y)
 
