@@ -4,7 +4,7 @@ title: Perspectives on `What makes a good theory?`
 category: symposium, conference, theory, mathematical psychology
 ---
 
-Together with Chris Donkin, I am co-organizing a symposium at [MathPsych/ICCM2020](http://mathpsych.org/conferences/2020/), titled [Perspectives on 'What makes a good theory?'](http://mathpsych.org/conferences/2020/?p=symposia) Below you find the symposium description and links to the talks. 
+Together with Chris Donkin, I am co-organizing a symposium at [MathPsych/ICCM2020](http://mathpsych.org/conferences/2020/), titled [Perspectives on 'What makes a good theory?'](http://mathpsych.org/conferences/2020/?p=symposia) Below you find the symposium description and links to the talks (as they become available).
 
 **Symposium description**
 
@@ -13,8 +13,6 @@ Psychological science has been going through some turbulent times due to the 're
 The symposium brings together a diverse group of mathematical psychologists and computational cognitive scientists and invites them to give their perspective on the question 'what makes a good theory?'. Each speaker is asked to reflect not only on the characteristics of 'good theories' but also on how on their view such theories may be identified and/or generated. The symposium's explicit aim is to foster dialogue on the complexities and nuances of the question posed and to create a platform for a pluralism of epistemological perspectives.
 
 **Talks**
-
-Below you can find links to the talks (as they become available):
 
 1. **Olivia Guest & Andrea E. Martin**: [How computational modeling can force theory building in psychological science](https://www.youtube.com/watch?v=8Aa9_6ahO48&feature=emb_logo)
 
