@@ -28,4 +28,4 @@ Below you can find links to the talks (as they become available):
 
 6. **David Kellen**: Theories as modelling ecologies
 
-The talks will be featured on July 22-23, and panel discussion will be on July 29. See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) for more information.
+The talks will be featured on July 22-23 and panel discussion will be on July 29. See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) for more information.
