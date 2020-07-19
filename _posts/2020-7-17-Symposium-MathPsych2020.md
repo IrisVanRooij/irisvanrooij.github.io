@@ -16,7 +16,7 @@ The symposium brings together a diverse group of mathematical psychologists and 
 
 1. **Olivia Guest & Andrea E. Martin**: [How computational modeling can force theory building in psychological science](https://www.youtube.com/watch?v=8Aa9_6ahO48&feature=emb_logo)
 
-2. **Chris Donkin et al.** Clarifying the role of mathematics in theory development
+2. **Chris Donkin et al.** [Clarifying the role of mathematics in theory development](https://youtu.be/6Q8rRabXJb4)
 
 3. **Amy Perfors**: [Generating theories is hard, and none of our theories are good enough](https://www.youtube.com/watch?v=NFIQp_gMumM)
 
