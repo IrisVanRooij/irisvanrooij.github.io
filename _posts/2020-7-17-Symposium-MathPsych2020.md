@@ -22,7 +22,7 @@ The symposium brings together a diverse group of mathematical psychologists and 
 
 4. **Iris van Rooij**: [Good theories are possible](https://www.youtube.com/watch?v=XXhRyRW630Y)
 
-5. **Sashank Varma**; Theories that explain versus theories that describe: the case of constraint satisfaction
+5. **Sashank Varma**; [Theories that explain versus theories that describe: the case of constraint satisfaction](https://youtu.be/3lPX1SuDS-Q)
 
 6. **David Kellen**: Theories as modelling ecologies
 
