@@ -29,7 +29,7 @@
     <meta name="twitter:title"   content="{{ page.title }}">
 
     {% if page.summary %}
-    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:description" content="{{ page.summary }}">
     {% else %}
     <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
@@ -38,7 +38,7 @@
     <meta name="twitter:card"  content="summary_large_image">
     <meta name="twitter:image" content="{{ site.url }}{{ page.avatar }}">
     {% else %}
-    <meta name="twitter:card"  content="description">
+    <meta name="twitter:card"  content="summary">
     <meta name="twitter:image" content="{{ site.avatar }}">
     {% endif %}
     <!-- end of Twitter cards -->
