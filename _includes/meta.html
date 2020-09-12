@@ -36,9 +36,9 @@
 
     {% if page.image %}
     <meta name="twitter:card"  content="summary_large_image">
-    <meta name="twitter:image" content="\images\metatheorist_logo.png">
+    <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
     {% else %}
     <meta name="twitter:card"  content="summary">
-    <meta name="twitter:image" content="metatheorist_logo.png">
+    <meta name="twitter:image" content="{{ site.avatar }}">
     {% endif %}
     <!-- end of Twitter cards -->
