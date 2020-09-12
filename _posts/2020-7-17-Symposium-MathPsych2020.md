@@ -2,7 +2,9 @@
 layout: post
 title: Perspectives on `What makes a good theory?`
 category: symposium, conference, theory, mathematical psychology
+image: /images/metatheorist_logo.png
 ---
+
 
 Together with Chris Donkin, I am co-organizing a symposium at [MathPsych/ICCM2020](http://mathpsych.org/conferences/2020/), titled [Perspectives on 'What makes a good theory?'](http://mathpsych.org/conferences/2020/?p=symposia) Below you find the symposium description and links to the talks (as they become available).
 
