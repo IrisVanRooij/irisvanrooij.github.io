@@ -35,10 +35,8 @@
     {% endif %}
 
     {% if page.image %}
-    <meta name="twitter:card"  content="summary_large_image">
-    <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}">
-    {% else %}
-    <meta name="twitter:card"  content="summary">
-    <meta name="twitter:image" content="{{ site.avatar }}">
-    {% endif %}
+  <meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image }}">
+{% else %}
+  <meta name="twitter:image:src" content="{{ site.url }}/images/logo.png">
+{% endif %}
     <!-- end of Twitter cards -->
