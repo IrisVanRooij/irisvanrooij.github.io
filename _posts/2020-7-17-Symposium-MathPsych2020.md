@@ -26,6 +26,4 @@ The symposium brings together a diverse group of mathematical psychologists and 
 
 5. **Sashank Varma**; [Theories that explain versus theories that describe: the case of constraint satisfaction](https://youtu.be/3lPX1SuDS-Q)
 
-6. **David Kellen**: Theories as modelling ecologies
-
 See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) for more information.
