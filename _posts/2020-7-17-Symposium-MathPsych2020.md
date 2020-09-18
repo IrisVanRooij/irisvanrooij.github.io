@@ -6,7 +6,7 @@ image: /images/metatheorist_logo.png
 ---
 
 
-Together with Chris Donkin, I am co-organizing a symposium at [MathPsych/ICCM2020](http://mathpsych.org/conferences/2020/), titled [Perspectives on 'What makes a good theory?'](http://mathpsych.org/conferences/2020/?p=symposia) Below you find the symposium description and links to the talks (as they become available).
+Together with Chris Donkin, I co-organized a symposium at [MathPsych/ICCM2020](http://mathpsych.org/conferences/2020/), titled [Perspectives on 'What makes a good theory?'](http://mathpsych.org/conferences/2020/?p=symposia) Below you find the symposium description and links to the talks.
 
 **Symposium description**
 
@@ -28,4 +28,4 @@ The symposium brings together a diverse group of mathematical psychologists and 
 
 6. **David Kellen**: Theories as modelling ecologies
 
-The talks will be featured on July 22-23, and panel discussion will be on July 29. See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) for more information.
+See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) for more information.
