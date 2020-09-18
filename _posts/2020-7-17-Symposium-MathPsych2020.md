@@ -20,7 +20,7 @@ The symposium brings together a diverse group of mathematical psychologists and 
 
 2. **Chris Donkin et al.** [Clarifying the role of mathematics in theory development](https://youtu.be/6Q8rRabXJb4)
 
-3. **Amy Perfors**: [Generating theories is hard, and none of our theories are good enough](https://www.youtube.com/watch?v=NFIQp_gMumM)
+3. **Andrew Perfors**: [Generating theories is hard, and none of our theories are good enough](https://www.youtube.com/watch?v=NFIQp_gMumM)
 
 4. **Iris van Rooij**: [Good theories are possible](https://www.youtube.com/watch?v=XXhRyRW630Y)
 
