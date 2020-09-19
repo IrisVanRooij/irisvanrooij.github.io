@@ -36,5 +36,5 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Szollosi, A., & Donkin, C. (2019) [Arrested theory development: The misguided distinction between exploratory and confirmatory research.](https://twitter.com/IrisVanRooij/status/1175727856200101894?s=20) *PsyArXiv*
 
-<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=8faafc29e487fbaffe9286b782a4f92032ac34ab'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746881/t/3"></script>
+<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>
