@@ -27,7 +27,3 @@ I am compiling below a list of papers that have associated threads. If you click
 * Navarro, D. (2020/in press). [If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology](https://psyarxiv.com/ygbjp/) *Perspectives on Psychological Science*.
 
 * Szollosi, A., & Donkin, C. (2019). [Arrested theory development: The misguided distinction between exploratory and confirmatory research.](https://twitter.com/IrisVanRooij/status/1175727856200101894?s=20) *PsyArXiv*
-
-
-<a href='https://www.free-counters.org/'>https://www.free-counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2ca9aa446595429966479f8349f30bce47f78977'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746790/t/2"></script>
