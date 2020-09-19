@@ -6,7 +6,7 @@ category: theory, psychology, literature
 
 For my NIAS project [Tools for theory](https://twitter.com/IrisVanRooij/status/1299791220194058240?s=20), I'm reading up on theory & psychology, both recent and older papers. I will be tweeting about them in "Now Reading" threads.
 
-I am compiling below a list of papers that have associated threads. If you click the links you'll be taken to the relevant threads with highlights from the papers, usually including some of my own thoughts and reflections. 
+I am compiling below a list of papers that have associated threads. If you click the links you'll be taken to the relevant threads with highlights from the papers, usually including some of my own thoughts and reflections.
 
 * Bickhard, M. H. (2001). [The tragedy of operationalism](https://twitter.com/IrisVanRooij/status/1200908263275020289?s=20). *Theory & Psychology*
 
@@ -23,5 +23,7 @@ I am compiling below a list of papers that have associated threads. If you click
 * Jarecki, J.B., Tan, J.H. & Jenny, M.A. (2020). [A framework for building cognitive process models](https://twitter.com/IrisVanRooij/status/1296484013381689344?s=20). *Psychon Bull Rev*
 
 * Kaplan, D. M. (2011) [Explanation and description in computational neuroscience](https://twitter.com/IrisVanRooij/status/1170800581537140738?s=20). *Synthese*
+
+* Navarro, D. (2020/in press). [If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology](https://psyarxiv.com/ygbjp/) *Perspective on Psychological Science*. 
 
 * Szollosi, A., & Donkin, C. (2019). [Arrested theory development: The misguided distinction between exploratory and confirmatory research.](https://twitter.com/IrisVanRooij/status/1175727856200101894?s=20) *PsyArXiv*
