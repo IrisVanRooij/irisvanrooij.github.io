@@ -26,3 +26,6 @@ Unless otherwise specified, the contents of this blog are released under a [CC-B
 This website is funded by a [DLF](https://nias.knaw.nl/fellowships/distinguished-lorentz-fellowship/) awarded by [NIAS](https://nias.knaw.nl) and [Lorentz Center](https://www.lorentzcenter.nl) and is created with [Jekyll](https://jekyllrb.com). The website code is available [here](https://github.com/IrisVanRooij/IrisVanRooij.github.io) and was forked from [Jekyll-Now](https://github.com/barryclark/jekyll-now). Many thanks to [neuroplausible](https://neuroplausible.com/about) for inspiration and useful pointers.
 
 ![logos](images/NIAS_Lorentz.png)
+
+<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=8faafc29e487fbaffe9286b782a4f92032ac34ab'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746881/t/3"></script>
