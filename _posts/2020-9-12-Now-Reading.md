@@ -39,3 +39,6 @@ I am compiling below a list of papers that have associated threads. If you click
 * Toomela, A. (2020) [Psychology today: Still in denial, still outdated](https://twitter.com/IrisVanRooij/status/1307394848052391937?s=20). *Integrative Psychological and Behavioral Science* ** **New** **
 
 *Last updated on 20-9-2020*
+
+<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>
