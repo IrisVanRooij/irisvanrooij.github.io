@@ -28,7 +28,7 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Marr, D. (1977) [Artificial Intelligence--A Personal View](https://twitter.com/IrisVanRooij/status/964589565402075138?s=20). *Artificial Intelligence*
 
-* Navarro, D. (2020/in press). [If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology](https://psyarxiv.com/ygbjp/) *Perspectives on Psychological Science*.
+* Navarro, D. (2020/in press). [If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology](https://psyarxiv.com/ygbjp/) *Perspectives on Psychological Science*. ** **New** **
 
 * Newell, A. (1973) [You can’t play 20 questions with nature and win](https://twitter.com/IrisVanRooij/status/964963821860290564?s=20). *Proceedings of the Eighth Annual Carnegie Symposium on Cognition*
 
@@ -36,5 +36,6 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Szollosi, A., & Donkin, C. (2019) [Arrested theory development: The misguided distinction between exploratory and confirmatory research.](https://twitter.com/IrisVanRooij/status/1175727856200101894?s=20) *PsyArXiv*
 
-<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>
+* Toomela, A. (2020) [Psychology today: Still in denial, still outdated](https://twitter.com/IrisVanRooij/status/1307394848052391937?s=20). *Integrative Psychological and Behavioral Science* ** **New** **
+
+*Last updated on 20-9-2020*
