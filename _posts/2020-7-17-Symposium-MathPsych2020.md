@@ -27,3 +27,8 @@ The symposium brings together a diverse group of mathematical psychologists and 
 5. **Sashank Varma**; [Theories that explain versus theories that describe: the case of constraint satisfaction](https://youtu.be/3lPX1SuDS-Q)
 
 See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) for more information.
+
+*Last updated on 20-9-2020*
+
+<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>
