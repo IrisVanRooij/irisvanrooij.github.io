@@ -22,3 +22,7 @@ I will also organize a [Lorentz workshop](https://www.lorentzcenter.nl) titled _
     Share this on &rarr;
     <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_irisvanrooij }}&related={{ site.twitter_irisvanrooij }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
 </div>
+
+
+<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>

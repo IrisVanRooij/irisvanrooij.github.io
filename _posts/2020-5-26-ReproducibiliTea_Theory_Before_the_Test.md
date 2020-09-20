@@ -47,3 +47,7 @@ If you have more questions or comments, please send me a message on [twitter](ht
 [^2]: For one, they grow unreasonably large very quickly and for infinite domains they are even impossible
 [^3]: I could give some of my own favorites, but reasonable people may disagree that those are genuinely good theories. Also, a lot depends on what is meant by "good". And even if I'd identify a truly good theory, it could be hard for anyone to appreciate *why* it is good, unless one already has substantive knowledge about the content area.
 [^4]: This paper is probably an exception. Published papers seldom describe the trial and error process and instead publish the outcomes of the process (plus some experiments to test the proposed theory). Given this tradition it is perhaps unsurprising that theories seem to come out of thin air.  
+
+
+<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>
