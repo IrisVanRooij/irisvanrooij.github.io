@@ -30,5 +30,5 @@ See the MathPsych Virtual conference [website](https://virtual.mathpsych.org) fo
 
 *Last updated on 20-9-2020*
 
-<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
+<a href=''></a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>

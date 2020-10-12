@@ -20,5 +20,5 @@ _van Rooij, I., Blokpoel, M., Kwisthout, J., & Wareham, T. (2019). Introduction.
 [^1]: This is a tongue in cheek reference to a [paper](https://psyarxiv.com/rybh9/) by Olivia Guest and Andrea Martin and their use of pizzas to illustrate the use and need for modeling in science, and a [blog](https://www.psychologytoday.com/intl/blog/how-do-you-know/202004/what-is-the-pizza-problem-in-psychology-research) by Alex Danvers about a.o. this paper and "pizza insight" generally.
 
 
-<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
+<a href=''></a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>

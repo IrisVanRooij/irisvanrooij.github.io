@@ -27,5 +27,5 @@ This website is funded by a [DLF](https://nias.knaw.nl/fellowships/distinguished
 
 ![logos](images/NIAS_Lorentz.png)
 
-<a href='https://www.symptoma.es/'>www.symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
+<a href=''></a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>
