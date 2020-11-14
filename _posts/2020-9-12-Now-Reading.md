@@ -34,6 +34,8 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Simon, H. (1990) [Invariants of human behavior](https://twitter.com/IrisVanRooij/status/1224096789202186241?s=20). *Annual Review of Psychology*
 
+* Smaldino, P. (2019) [Better methods can’t make up for mediocre theory](https://twitter.com/IrisVanRooij/status/1192223451202949121?s=20). *Nature*
+
 * Szollosi, A., & Donkin, C. (2019) [Arrested theory development: The misguided distinction between exploratory and confirmatory research.](https://twitter.com/IrisVanRooij/status/1175727856200101894?s=20) *PsyArXiv*
 
 * Toomela, A. (2020) [Psychology today: Still in denial, still outdated](https://twitter.com/IrisVanRooij/status/1307394848052391937?s=20). *Integrative Psychological and Behavioral Science* ** **New** **
