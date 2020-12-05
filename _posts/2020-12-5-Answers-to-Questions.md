@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Q&A for 'Beyond the Crisis in Psychology'
+title: Q&A for 'Beyond the crisis in psychology'
 category: psychology, crisis, theory, tools for thinking
 authors: Iris van Rooij
 ---
@@ -20,7 +20,6 @@ I often use deterministic models for [ease of analysis](https://twitter.com/Iris
 > Supposing we manage to develop a theoretical model that manages to replicate a certain effect or aspect of behaviour. What would be the next step at that point? If there are multiple ways to model such an effect, what does success teach us?
 
 Empirical underdetermination is a feature of science (and cognition). Be that as it may, on my view the first step is *not* to explain effects, but instead to explain capacities. It turns out remarkably hard to come up with even *one* plausible explanation. Existing explanations are either limited to toy domains, have "magic" components, are intractable, or otherwise make unrealistic assumptions. Many researchers concern themselves a lot with the question you raise, but I think it distracts them from taking the first necessary steps to come up with [possible](https://www.youtube.com/watch?v=XXhRyRW630Y) explanations.
-
 
 **Q3: Role of Machine Learning / AI**
 
@@ -121,7 +120,7 @@ Let me close by thanking everyone again for the thought-provoking questions. If 
 
 -- [Iris van Rooij](https://metatheorist.com/about/)
 
-[^1]: I was unsure how people may feel if I'd attribute questions to individual people. Therefore I thank collectively: Federico Adolfi, Julian Burger, Erwin de Wolff, Maarten Derksen, Izabelė J, Michaela, Han van der Maas, for some of these questions and/or for your feedback on the talk and discussion in general.
+[^1]: Since the questions were asked in an informal setting, I was not sure how people would feel about attribution of the questions. For now, I thank collectively: Federico Adolfi, Julian Burger, Erwin de Wolff, Maarten Derksen, Izabelė J, Michaela, Han van der Maas, for some of these questions and/or for your feedback on the talk and discussion in general. If someone prefers their name listed with their question, feel free to let me know!
 
 
 <script type="text/javascript" async
