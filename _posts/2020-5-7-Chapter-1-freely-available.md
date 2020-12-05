@@ -4,6 +4,8 @@ title: Free Chapter 1 and Pizzas
 category: book, intractability, pizzas
 ---
 
+![pizzas](/images/pizzas.png "pizzas")
+
 Delighted to announce that Cambridge University Press has made Chapter 1 of our book [Cognition and Intractability](https://www.cambridge.org/core/books/cognition-and-intractability/2FC21B94CCCFBBD1E11A2D30D4503A23) freely available. You can download it for free [here](https://www.cambridge.org/core/books/cognition-and-intractability/introduction/2FBB76A42417F33C409A2EAD17C15046) or click below.
 
 [![book](/images/CH1_start.png "Book")](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2FBB76A42417F33C409A2EAD17C15046/9781107043992c1_3-22.pdf/introduction.pdf)

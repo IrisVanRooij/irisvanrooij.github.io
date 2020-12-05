@@ -4,6 +4,8 @@ title: Now Reading threads
 category: theory, psychology, literature
 ---
 
+![library](/images/library.png "library")
+
 For my NIAS project [Tools for theory](https://twitter.com/IrisVanRooij/status/1299791220194058240?s=20), I'm reading up on theory & psychology, both recent and older papers. I will be tweeting about them in "Now Reading" threads.
 
 I am compiling below a list of papers that have associated threads. If you click the links you'll be taken to the relevant threads with highlights from the papers, usually including some of my own thoughts and reflections.
