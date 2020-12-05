@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Continued Q&A for DLF talk
+title: Q&A for 'Beyond the Crisis in Psychology'
 category: psychology, crisis, theory, tools for thinking
 authors: Iris van Rooij
 ---
 
-November 26, 2020, I was awarded the Distinguished Lorentz Fellowship & Prize. [SPUI25](https://www.spui25.nl) hosted an online event for the occasion. You can read a short summary [here](https://nias.knaw.nl/stories/beyond-the-crisis-in-psychology/), or just watch the recorded event (below).
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aIqGT0VwVqk?start=225" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Many questions were asked via the zoom Q&A, youtube chat and on twitter. Thank you all for these questions! I could only answer some of them during the live event. Below a list of remaining questions and my answers to them [[^1]].
+November 26, 2020, I was awarded the Distinguished Lorentz Fellowship & Prize. [SPUI25](https://www.spui25.nl) hosted an online event for the occasion. You can read a short summary [here](https://nias.knaw.nl/stories/beyond-the-crisis-in-psychology/), or just watch the recorded event (above). Many questions were asked via the zoom Q&A, youtube chat and on twitter. Thank you all for these questions! I could only answer some of them during the live event. Below a list of remaining questions and my answers to them [[^1]].
 
 **Q1: Deterministic vs stochastic models**
 
