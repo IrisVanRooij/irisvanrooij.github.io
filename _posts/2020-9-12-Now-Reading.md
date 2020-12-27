@@ -20,17 +20,23 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Cooper, R. & Guest, O. (2014) [Implementations are not specifications: Specification, replication and experimentation in computational cognitive modeling](https://twitter.com/IrisVanRooij/status/1223668740853837830?s=20). *Cognitive Systems Research*
 
-* Douven, I. (2017) [Peirce on Abduction](https://twitter.com/IrisVanRooij/status/1325560204101038081?s=20). *Stanford Encyclopedia of Philosophy* ** **New** **
+* Davis-Stober, C. & Regenwetter, M. (2019) [The ‘paradox’ of converging evidence](https://twitter.com/IrisVanRooij/status/1330492416391073793?s=20). *Psych Review, 2019* ** **New** **
+
+* Douven, I. (2017) [Peirce on Abduction](https://twitter.com/IrisVanRooij/status/1325560204101038081?s=20). *Stanford Encyclopedia of Philosophy*
+
+* Eronen, M. & Romeijn, J-W. (2020). [Philosophy of science and the formalization of psychological theory](https://twitter.com/IrisVanRooij/status/1341815344571314176?s=20). *Theory & Psychology* ** **New** **
 
 * Flis, I. (2019) [Psychologists psychologizing scientific psychology: An epistemological reading of the replication crisis](https://twitter.com/IrisVanRooij/status/1132313218007875586?s=20). *Theory & Psychology*
+
+* Gergen, K. (1973) [Social psychology as history" by Kenneth Gergen](https://twitter.com/IrisVanRooij/status/1340402896383447041?s=20). *Journal of Personality and Social Psychology* ** **New** **
 
 * Gigerenzer, G. (2020) [How to explain behavior?](https://twitter.com/IrisVanRooij/status/1195758273628196865?s=20) *Topics in Cognitive Science*
 
 * Griffiths, Lieder, & Goodman (2015) [Rational use of cognitive resources: levels of analysis between the computational and the algorithmic](https://twitter.com/IrisVanRooij/status/1119322136005443585?s=20). *Topics in Cognitive Science*
 
-* Haig, B. (2009) [A neglected approach to theory appraisal in psycholog](https://twitter.com/IrisVanRooij/status/1322280548769943558?s=20). *American Journal of Psychology* ** **New** **
+* Haig, B. (2009) [A neglected approach to theory appraisal in psychology](https://twitter.com/IrisVanRooij/status/1322280548769943558?s=20). *American Journal of Psychology*
 
-* Hand, D. J. (1996). [Statistics and the theory of measurement](https://twitter.com/IrisVanRooij/status/1307788254452822017?s=20). *Journal of the Royal Statistical Society* ** **New** **
+* Hand, D. J. (1996). [Statistics and the theory of measurement](https://twitter.com/IrisVanRooij/status/1307788254452822017?s=20). *Journal of the Royal Statistical Society*
 
 * Jarecki, J.B., Tan, J.H. & Jenny, M.A. (2020) [A framework for building cognitive process models](https://twitter.com/IrisVanRooij/status/1296484013381689344?s=20). *Psychon Bull Rev*
 
@@ -50,7 +56,7 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Toomela, A. (2020) [Psychology today: Still in denial, still outdated](https://twitter.com/IrisVanRooij/status/1307394848052391937?s=20). *Integrative Psychological and Behavioral Science*
 
-*Last updated on 20-9-2020*
+*Last updated on 27-12-2020*
 
 <a href=''></a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>
