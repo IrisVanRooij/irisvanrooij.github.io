@@ -28,7 +28,7 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Flis, I. (2019) [Psychologists psychologizing scientific psychology: An epistemological reading of the replication crisis](https://twitter.com/IrisVanRooij/status/1132313218007875586?s=20). *Theory & Psychology*
 
-* Gergen, K. (1973) [Social psychology as history" by Kenneth Gergen](https://twitter.com/IrisVanRooij/status/1340402896383447041?s=20). *Journal of Personality and Social Psychology* ** **New** **
+* Gergen, K. (1973) [Social psychology as history](https://twitter.com/IrisVanRooij/status/1340402896383447041?s=20). *Journal of Personality and Social Psychology* ** **New** **
 
 * Gigerenzer, G. (2020) [How to explain behavior?](https://twitter.com/IrisVanRooij/status/1195758273628196865?s=20) *Topics in Cognitive Science*
 
