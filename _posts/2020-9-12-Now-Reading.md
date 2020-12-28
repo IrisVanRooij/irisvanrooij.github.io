@@ -42,6 +42,10 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Kaplan, D. M. (2011) [Explanation and description in computational neuroscience](https://twitter.com/IrisVanRooij/status/1170800581537140738?s=20) *Synthese*
 
+* Lilburn, S., Little, D., Osth, A. & Smith, P.L. (2019) [Cultural problems cannot be solved with technical solutions alone](https://twitter.com/IrisVanRooij/status/1205193993665105920?s=20). *Computational Brain & Behaviour*
+
+* MacEachern, S.N. & Van Zandt, T. (2019) [Preregistration of modeling exercises may not be useful](https://twitter.com/IrisVanRooij/status/1176946068581429249?s=20). *Computational Brain & Behaviour*
+
 * Marr, D. (1977) [Artificial Intelligence--A Personal View](https://twitter.com/IrisVanRooij/status/964589565402075138?s=20). *Artificial Intelligence*
 
 * Navarro, D. (2020/in press). [If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology](https://twitter.com/IrisVanRooij/status/1306677352617869315?s=20) *Perspectives on Psychological Science*.
