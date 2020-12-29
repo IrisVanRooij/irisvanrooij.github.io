@@ -38,6 +38,8 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Hand, D. J. (1996). [Statistics and the theory of measurement](https://twitter.com/IrisVanRooij/status/1307788254452822017?s=20). *Journal of the Royal Statistical Society*
 
+* Kellen, D., Davis-Stober, C., Dunn, J., & Kalish, M. (2020/in press). [The problem of coordination and the pursuit of structural constraints in psychology](https://twitter.com/IrisVanRooij/status/1343665478577901569?s=20) *Perspectives on Psychological Science* ** **New** **
+
 * Jarecki, J.B., Tan, J.H. & Jenny, M.A. (2020) [A framework for building cognitive process models](https://twitter.com/IrisVanRooij/status/1296484013381689344?s=20). *Psychon Bull Rev*
 
 * Kaplan, D. M. (2011) [Explanation and description in computational neuroscience](https://twitter.com/IrisVanRooij/status/1170800581537140738?s=20) *Synthese*
