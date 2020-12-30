@@ -30,6 +30,8 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Gergen, K. (1973) [Social psychology as history](https://twitter.com/IrisVanRooij/status/1340402896383447041?s=20). *Journal of Personality and Social Psychology* ** **New** **
 
+* Guest. O & Martin, A. E. (2020/in press) [How computational modeling can force theory building in psychological science](https://twitter.com/IrisVanRooij/status/1344050638200647682?s=20). *Perspectives on Psychological Science* ** **New** **
+
 * Gigerenzer, G. (2020) [How to explain behavior?](https://twitter.com/IrisVanRooij/status/1195758273628196865?s=20) *Topics in Cognitive Science*
 
 * Griffiths, Lieder, & Goodman (2015) [Rational use of cognitive resources: levels of analysis between the computational and the algorithmic](https://twitter.com/IrisVanRooij/status/1119322136005443585?s=20). *Topics in Cognitive Science*
