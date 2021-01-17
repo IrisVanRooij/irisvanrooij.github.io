@@ -40,6 +40,10 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Hand, D. J. (1996). [Statistics and the theory of measurement](https://twitter.com/IrisVanRooij/status/1307788254452822017?s=20). *Journal of the Royal Statistical Society*
 
+* Haraway, D. (1988). [Situated knowledges: The science question in feminism and the privilege of partial perspective](https://twitter.com/IrisVanRooij/status/1346584690472480785?s=20) *Feminist Studies* ** **New** **
+
+* Irvine, E. (2021) [The role of replication studies in theory building](https://twitter.com/IrisVanRooij/status/1349866391478923269?s=20) *Perspectives on Psychological Science* ** **New** **
+
 * Kellen, D., Davis-Stober, C., Dunn, J., & Kalish, M. (2020/in press). [The problem of coordination and the pursuit of structural constraints in psychology](https://twitter.com/IrisVanRooij/status/1343665478577901569?s=20) *Perspectives on Psychological Science* ** **New** **
 
 * Jarecki, J.B., Tan, J.H. & Jenny, M.A. (2020) [A framework for building cognitive process models](https://twitter.com/IrisVanRooij/status/1296484013381689344?s=20). *Psychon Bull Rev*
@@ -64,7 +68,9 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Toomela, A. (2020) [Psychology today: Still in denial, still outdated](https://twitter.com/IrisVanRooij/status/1307394848052391937?s=20). *Integrative Psychological and Behavioral Science*
 
-*Last updated on 27-12-2020*
+* Varma, S. (2014) [The subjective meaning of cognitive architecture: a Marrian analysis](https://twitter.com/IrisVanRooij/status/1345148675979358210?s=20). *Frontiers in Psychology: Theoretical and Philosophical Psychology* ** **New** **
+
+*Last updated on 17-01-2021*
 
 <a href=''></a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>
