@@ -4,7 +4,7 @@ title: "Are we building on air castles?"
 category: theory, metatheory
 ---
 
-[MPI CBS Open Science](https://twitter.com/CBSOpenScience/status/1394973820553994243?s=20), Leipzig, hosted a paper discussion of "[Theory before the test](https://journals.sagepub.com/doi/abs/10.1177/1745691620970604)", that I co-authored with Giosu&egrave; Baggio. The meeting was part of [ReproducibiliTea journal club](https://www.cbs.mpg.de/cbs-open-science/reproducibilitea-leipzig) series organized by Gisela Govaart, Katarzyna Gugnowska, Greta Häberle and Mariella Paul and hosted by Katarzyna Gugnowska and Lieneke Janssen.
+[MPI CBS Open Science](https://twitter.com/CBSOpenScience/status/1394973820553994243?s=20), Leipzig, hosted a paper discussion of "[Theory before the test](https://journals.sagepub.com/doi/abs/10.1177/1745691620970604)", that I co-authored with Giosu&egrave; Baggio. The meeting was part of a [ReproducibiliTea journal club](https://www.cbs.mpg.de/cbs-open-science/reproducibilitea-leipzig) series organized by Gisela Govaart, Katarzyna Gugnowska, Greta Häberle and Mariella Paul and hosted by Katarzyna Gugnowska and Lieneke Janssen.
 
 ![castle in the air](/images/castle.png "air castle")
 
