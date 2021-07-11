@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Special Issue on Theory in Psychology
+title: Special Issue on Theory in Psychological Science
 category: theory, psychology, literature
 ---
 
-Finally, the special issue on *Theory in Psychology*, edited by Travis Proulx and Richard Morey, is out!
+Finally, the special issue on *Theory in Psychological Science*, edited by Travis Proulx and Richard Morey, is out!
 
-Some papers in this issue have been up on PsyArxiv since early 2020 or even 2019, but now all have been compiled and published in *Perspectives on Psychological Scienc*. Check out the full Table of Contents [here](https://journals.sagepub.com/toc/pps/16/4).
+Some papers in this issue have been up on PsyArXiv since early 2020 or even 2019, but now all have been compiled and published in *Perspectives on Psychological Scienc*. Check out the full Table of Contents [here](https://journals.sagepub.com/toc/pps/16/4).
 
-Over the last year, I wrote 'Now reading'-threads about some of the papers in this issue (either as preprint or in published form). Below an overview of the papers, in alphabetical order, with links to their threads.
+Over the last year, I wrote '[Now reading](https://metatheorist.com/Now-Reading/)'-threads about some of the papers in this issue (either as preprint or in published form). Below an overview of the papers, in alphabetical order, with links to their threads.
 
 * Borsboom, van der Maas, Dalege, Kievit, & Haig (2021) *Theory construction methodology: A practical framework for building theories in psychology* [[article](https://journals.sagepub.com/doi/full/10.1177/1745691620969647)]  [[thread](https://twitter.com/IrisVanRooij/status/1368348829662273542)]
 
