@@ -25,7 +25,7 @@ Over the last year, I wrote '[Now reading](https://metatheorist.com/Now-Reading/
 
 * Proulx & Morey (2021). *Beyond statistical ritual: Theory in psychological science* [[article](https://journals.sagepub.com/doi/full/10.1177/17456916211017098)] [[thread]](https://twitter.com/IrisVanRooij/status/1400944578878976000)
 
-* Robinaugh, Haslbeck, Ryan, Fried, & Waldorp (2021). *Invisible hands and fine callipers: A call to use formal theory as a toolkit for theory construction. [[article](https://journals.sagepub.com/doi/full/10.1177/1745691620974697)] [[preprint](https://psyarxiv.com/ugz7y)] [[thread](https://twitter.com/IrisVanRooij/status/1368237732196216834)]
+* Robinaugh, Haslbeck, Ryan, Fried, & Waldorp (2021). *Invisible hands and fine callipers: A call to use formal theory as a toolkit for theory construction* [[article](https://journals.sagepub.com/doi/full/10.1177/1745691620974697)] [[preprint](https://psyarxiv.com/ugz7y)] [[thread](https://twitter.com/IrisVanRooij/status/1368237732196216834)]
 
 * Szollosi & Donkin (2021) *Arrested theory development: The misguided distinction between exploratory and confirmatory research* [[article](https://journals.sagepub.com/doi/full/10.1177/1745691620966796)] [[preprint](https://psyarxiv.com/suzej/)] [[thread](https://twitter.com/IrisVanRooij/status/1175727856200101894?s=20)]
 
