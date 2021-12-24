@@ -10,7 +10,7 @@ category: theory, psychology, literature
 
 It seems that many people found my compilation of [Now reading](hhttps://metatheorist.com/Now-Reading/) threads useful. So I thought I'd also compile my "Now Watching" threads/tweets about videos I've been watching. Find them below!
 
-I warmly recommended them all. Get yourself some popcorn and have fun watching!
+I warmly recommended them all. Get yourself some popcorn and have fun watching! 
 
 * [Why has AGI not been created yet?](https://twitter.com/IrisVanRooij/status/1469606775271956485), by David Deutsch (2019)
 
