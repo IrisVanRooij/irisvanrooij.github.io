@@ -8,9 +8,9 @@ category: theory, psychology, literature
 
 <a href="https://www.freepik.com/vectors/background">Image created by starline - www.freepik.com</a>
 
-It seems that people found my compilation of [Now reading](hhttps://metatheorist.com/Now-Reading/) threads useful. So I thought I'd also compile my "Now Watching" threads/tweets about videos I've been watching. Find them below!
+It seems that people found my compilation of [Now reading](https://metatheorist.com/Now-Reading/) threads useful. So I thought I'd also compile my "Now Watching" threads/tweets about videos I've been watching. Find them below!
 
-I warmly recommend them all. Get yourself some popcorn and have fun! 
+I warmly recommend them all. Get yourself some popcorn and have fun!
 
 * [Why has AGI not been created yet?](https://twitter.com/IrisVanRooij/status/1469606775271956485), by David Deutsch (2019)
 
