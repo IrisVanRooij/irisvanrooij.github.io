@@ -12,6 +12,8 @@ It seems that people found my compilation of [Now reading](https://metatheorist.
 
 I warmly recommend them all. Get yourself some popcorn and have fun!
 
+* [The Popperian Podcast #1](https://twitter.com/IrisVanRooij/status/1475444212942491649?s=20), interview with David Deutsch (2020)
+
 * [Why has AGI not been created yet?](https://twitter.com/IrisVanRooij/status/1469606775271956485), by David Deutsch (2019)
 
 * [The Computational Universe](https://twitter.com/IrisVanRooij/status/1142527093122785281), by Leslie Valiant (2014)
