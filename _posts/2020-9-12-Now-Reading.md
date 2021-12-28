@@ -40,11 +40,11 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Hand, D. J. (1996). [Statistics and the theory of measurement](https://twitter.com/IrisVanRooij/status/1307788254452822017?s=20). *Journal of the Royal Statistical Society*
 
-* Haraway, D. (1988). [Situated knowledges: The science question in feminism and the privilege of partial perspective](https://twitter.com/IrisVanRooij/status/1346584690472480785?s=20) *Feminist Studies* ** **New** **
+* Haraway, D. (1988). [Situated knowledges: The science question in feminism and the privilege of partial perspective](https://twitter.com/IrisVanRooij/status/1346584690472480785?s=20) *Feminist Studies*
 
-* Irvine, E. (2021) [The role of replication studies in theory building](https://twitter.com/IrisVanRooij/status/1349866391478923269?s=20) *Perspectives on Psychological Science* ** **New** **
+* Irvine, E. (2021) [The role of replication studies in theory building](https://twitter.com/IrisVanRooij/status/1349866391478923269?s=20) *Perspectives on Psychological Science*
 
-* Kellen, D., Davis-Stober, C., Dunn, J., & Kalish, M. (2020/in press). [The problem of coordination and the pursuit of structural constraints in psychology](https://twitter.com/IrisVanRooij/status/1343665478577901569?s=20) *Perspectives on Psychological Science* ** **New** **
+* Kellen, D., Davis-Stober, C., Dunn, J., & Kalish, M. (2020/in press). [The problem of coordination and the pursuit of structural constraints in psychology](https://twitter.com/IrisVanRooij/status/1343665478577901569?s=20) *Perspectives on Psychological Science*
 
 * Jarecki, J.B., Tan, J.H. & Jenny, M.A. (2020) [A framework for building cognitive process models](https://twitter.com/IrisVanRooij/status/1296484013381689344?s=20). *Psychon Bull Rev*
 
@@ -60,6 +60,8 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Newell, A. (1973) [You can’t play 20 questions with nature and win](https://twitter.com/IrisVanRooij/status/964963821860290564?s=20). *Proceedings of the Eighth Annual Carnegie Symposium on Cognition*
 
+* Poeppel, D., & Adolfi, F. (2020). [Against the epistemological primacy of the hardware: The brain from inside out, turned upside down](https://twitter.com/IrisVanRooij/status/1475801049193668609?s=20). *eNeuro* ** **New** **
+
 * Simon, H. (1990) [Invariants of human behavior](https://twitter.com/IrisVanRooij/status/1224096789202186241?s=20). *Annual Review of Psychology*
 
 * Smaldino, P. (2019) [Better methods can’t make up for mediocre theory](https://twitter.com/IrisVanRooij/status/1192223451202949121?s=20). *Nature*
@@ -68,9 +70,11 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Toomela, A. (2020) [Psychology today: Still in denial, still outdated](https://twitter.com/IrisVanRooij/status/1307394848052391937?s=20). *Integrative Psychological and Behavioral Science*
 
-* Varma, S. (2014) [The subjective meaning of cognitive architecture: a Marrian analysis](https://twitter.com/IrisVanRooij/status/1345148675979358210?s=20). *Frontiers in Psychology: Theoretical and Philosophical Psychology* ** **New** **
+* Thagard, P. (2009). [Why cognitive science needs philosophy and vice versa](https://twitter.com/IrisVanRooij/status/1392198654207971336?s=20). *Topics in Cognitive Science* ** **New** **
 
-*Last updated on 17-01-2021*
+* Varma, S. (2014) [The subjective meaning of cognitive architecture: a Marrian analysis](https://twitter.com/IrisVanRooij/status/1345148675979358210?s=20). *Frontiers in Psychology: Theoretical and Philosophical Psychology*
+
+*Last updated on 27-12-2021*
 
 <a href=''></a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ffbbfa98da26dd5367373b4d525961f859ebeefb'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/746882/t/4"></script>
