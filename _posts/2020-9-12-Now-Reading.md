@@ -20,17 +20,17 @@ I am compiling below a list of papers that have associated threads. If you click
 
 * Cooper, R. & Guest, O. (2014) [Implementations are not specifications: Specification, replication and experimentation in computational cognitive modeling](https://twitter.com/IrisVanRooij/status/1223668740853837830?s=20). *Cognitive Systems Research*
 
-* Davis-Stober, C. & Regenwetter, M. (2019) [The ‘paradox’ of converging evidence](https://twitter.com/IrisVanRooij/status/1330492416391073793?s=20). *Psych Review, 2019* ** **New** **
+* Davis-Stober, C. & Regenwetter, M. (2019) [The ‘paradox’ of converging evidence](https://twitter.com/IrisVanRooij/status/1330492416391073793?s=20). *Psych Review, 2019*
 
 * Douven, I. (2017) [Peirce on Abduction](https://twitter.com/IrisVanRooij/status/1325560204101038081?s=20). *Stanford Encyclopedia of Philosophy*
 
-* Eronen, M. & Romeijn, J-W. (2020). [Philosophy of science and the formalization of psychological theory](https://twitter.com/IrisVanRooij/status/1341815344571314176?s=20). *Theory & Psychology* ** **New** **
+* Eronen, M. & Romeijn, J-W. (2020). [Philosophy of science and the formalization of psychological theory](https://twitter.com/IrisVanRooij/status/1341815344571314176?s=20). *Theory & Psychology*
 
 * Flis, I. (2019) [Psychologists psychologizing scientific psychology: An epistemological reading of the replication crisis](https://twitter.com/IrisVanRooij/status/1132313218007875586?s=20). *Theory & Psychology*
 
-* Gergen, K. (1973) [Social psychology as history](https://twitter.com/IrisVanRooij/status/1340402896383447041?s=20). *Journal of Personality and Social Psychology* ** **New** **
+* Gergen, K. (1973) [Social psychology as history](https://twitter.com/IrisVanRooij/status/1340402896383447041?s=20). *Journal of Personality and Social Psychology*
 
-* Guest. O & Martin, A. E. (2020/in press) [How computational modeling can force theory building in psychological science](https://twitter.com/IrisVanRooij/status/1344050638200647682?s=20). *Perspectives on Psychological Science* ** **New** **
+* Guest. O & Martin, A. E. (2020/in press) [How computational modeling can force theory building in psychological science](https://twitter.com/IrisVanRooij/status/1344050638200647682?s=20). *Perspectives on Psychological Science* 
 
 * Gigerenzer, G. (2020) [How to explain behavior?](https://twitter.com/IrisVanRooij/status/1195758273628196865?s=20) *Topics in Cognitive Science*
 
